@@ -7,6 +7,12 @@ The default style choices suffer from the color version of 'ransom note font syn
 
 For the lazy: Use the following somewhere in your file:
 
+#### This repo version: 
+
+`!includeurl https://raw.githubusercontent.com/simon2e/plantuml-style/master/style.pu`
+
+#### Original:
+
 `!includeurl https://raw.githubusercontent.com/matthewjosephtaylor/plantuml-style/master/style.pu`
 
 ## Examples:
