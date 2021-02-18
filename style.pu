@@ -1,6 +1,6 @@
 ' Not-ugly plantuml style defaults
 
-skinparam defaultFontName  Helvetica
+skinparam defaultFontName  Verdana
 skinparam sequenceMessageAlign center
 ' skinparam monochrome true
 
